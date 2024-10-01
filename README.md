@@ -14,7 +14,7 @@ This Chrome extension allows users to identify all the Twig templates used on a 
 1. **Download the Repository**:
    - Clone or download this repository to your local machine.
      ```bash
-     git clone https://github.com/chander-b/drupal_theme_debugging.git
+     git clone https://github.com/chander-b/drupal_twig_template_finder.git
      ```
    - Alternatively, you can download it as a `.zip` file and extract it.
 
@@ -31,7 +31,7 @@ This Chrome extension allows users to identify all the Twig templates used on a 
 ### Method 2: Download as a ZIP
 
 1. **Download the ZIP**:
-   - Click the **Download ZIP** button from the [GitHub repository](https://github.com/chander-b/drupal_theme_debugging).
+   - Click the **Download ZIP** button from the [GitHub repository](https://github.com/chander-b/drupal_twig_template_finder).
 
 2. **Install**:
    - Follow the steps in **Method 1** to load the unpacked extension in Chrome.
